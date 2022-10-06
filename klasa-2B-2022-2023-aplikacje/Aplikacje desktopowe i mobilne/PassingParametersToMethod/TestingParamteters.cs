@@ -6,9 +6,19 @@ using System.Threading.Tasks;
 
 namespace PassingParametersToMethod
 {
+    #region
+    struct Personstruct
+    {
+        string name;
+        string surname;
+        int age;
+    }
+    #endregion
+
+{
     class TestingParamteters
     {
-        #region
+        #region Przekazywanie typów prostych
         public void Test1()
         {
             byte number = 15;
@@ -65,6 +75,14 @@ namespace PassingParametersToMethod
             p.ShowInfo();
         }
 
+        #endregion
+
+        #region Przekazywanie struktur
+        public void Test3()
+        {
+            Personstruct ps = new Personstruct();
+            ps.name = "Adam";
+        }
         #endregion
     }
 }
