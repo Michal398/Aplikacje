@@ -6,5 +6,5 @@ build_property.ProjectTypeGuids =
 build_property.PublishSingleFile = 
 build_property.IncludeAllContentForSelfExtract = 
 build_property._SupportedPlatformList = Android,iOS,Linux,macOS,Windows
-build_property.RootNamespace = PassingParametersToMethod
-build_property.ProjectDir = C:\Michał Kumor 2B\klasa-2B-2022-2023-aplikacje\Aplikacje desktopowe i mobilne\PassingParametersToMethod\
+build_property.RootNamespace = PolymorphismApp
+build_property.ProjectDir = C:\Michał Kumor 2B\klasa-2B-2022-2023-aplikacje\Aplikacje desktopowe i mobilne\PolymorphismApp\

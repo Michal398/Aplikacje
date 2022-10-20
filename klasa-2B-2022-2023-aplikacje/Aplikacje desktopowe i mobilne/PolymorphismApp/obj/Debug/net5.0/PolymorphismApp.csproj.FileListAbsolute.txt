@@ -1,0 +1,15 @@
+C:\Michał Kumor 2B\klasa-2B-2022-2023-aplikacje\Aplikacje desktopowe i mobilne\PolymorphismApp\bin\Debug\net5.0\PolymorphismApp.exe
+C:\Michał Kumor 2B\klasa-2B-2022-2023-aplikacje\Aplikacje desktopowe i mobilne\PolymorphismApp\bin\Debug\net5.0\PolymorphismApp.deps.json
+C:\Michał Kumor 2B\klasa-2B-2022-2023-aplikacje\Aplikacje desktopowe i mobilne\PolymorphismApp\bin\Debug\net5.0\PolymorphismApp.runtimeconfig.json
+C:\Michał Kumor 2B\klasa-2B-2022-2023-aplikacje\Aplikacje desktopowe i mobilne\PolymorphismApp\bin\Debug\net5.0\PolymorphismApp.runtimeconfig.dev.json
+C:\Michał Kumor 2B\klasa-2B-2022-2023-aplikacje\Aplikacje desktopowe i mobilne\PolymorphismApp\bin\Debug\net5.0\PolymorphismApp.dll
+C:\Michał Kumor 2B\klasa-2B-2022-2023-aplikacje\Aplikacje desktopowe i mobilne\PolymorphismApp\bin\Debug\net5.0\ref\PolymorphismApp.dll
+C:\Michał Kumor 2B\klasa-2B-2022-2023-aplikacje\Aplikacje desktopowe i mobilne\PolymorphismApp\bin\Debug\net5.0\PolymorphismApp.pdb
+C:\Michał Kumor 2B\klasa-2B-2022-2023-aplikacje\Aplikacje desktopowe i mobilne\PolymorphismApp\obj\Debug\net5.0\PolymorphismApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Michał Kumor 2B\klasa-2B-2022-2023-aplikacje\Aplikacje desktopowe i mobilne\PolymorphismApp\obj\Debug\net5.0\PolymorphismApp.AssemblyInfoInputs.cache
+C:\Michał Kumor 2B\klasa-2B-2022-2023-aplikacje\Aplikacje desktopowe i mobilne\PolymorphismApp\obj\Debug\net5.0\PolymorphismApp.AssemblyInfo.cs
+C:\Michał Kumor 2B\klasa-2B-2022-2023-aplikacje\Aplikacje desktopowe i mobilne\PolymorphismApp\obj\Debug\net5.0\PolymorphismApp.csproj.CoreCompileInputs.cache
+C:\Michał Kumor 2B\klasa-2B-2022-2023-aplikacje\Aplikacje desktopowe i mobilne\PolymorphismApp\obj\Debug\net5.0\PolymorphismApp.dll
+C:\Michał Kumor 2B\klasa-2B-2022-2023-aplikacje\Aplikacje desktopowe i mobilne\PolymorphismApp\obj\Debug\net5.0\ref\PolymorphismApp.dll
+C:\Michał Kumor 2B\klasa-2B-2022-2023-aplikacje\Aplikacje desktopowe i mobilne\PolymorphismApp\obj\Debug\net5.0\PolymorphismApp.pdb
+C:\Michał Kumor 2B\klasa-2B-2022-2023-aplikacje\Aplikacje desktopowe i mobilne\PolymorphismApp\obj\Debug\net5.0\PolymorphismApp.genruntimeconfig.cache

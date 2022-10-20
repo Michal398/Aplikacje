@@ -1,16 +1,16 @@
-C:\Michał Kumor\klasa-2B-2022-2023-aplikacje\Aplikacje desktopowe i mobilne\FirstProject\bin\Debug\net5.0\FirstProject.exe
-C:\Michał Kumor\klasa-2B-2022-2023-aplikacje\Aplikacje desktopowe i mobilne\FirstProject\bin\Debug\net5.0\FirstProject.deps.json
-C:\Michał Kumor\klasa-2B-2022-2023-aplikacje\Aplikacje desktopowe i mobilne\FirstProject\bin\Debug\net5.0\FirstProject.runtimeconfig.json
-C:\Michał Kumor\klasa-2B-2022-2023-aplikacje\Aplikacje desktopowe i mobilne\FirstProject\bin\Debug\net5.0\FirstProject.runtimeconfig.dev.json
-C:\Michał Kumor\klasa-2B-2022-2023-aplikacje\Aplikacje desktopowe i mobilne\FirstProject\bin\Debug\net5.0\FirstProject.dll
-C:\Michał Kumor\klasa-2B-2022-2023-aplikacje\Aplikacje desktopowe i mobilne\FirstProject\bin\Debug\net5.0\ref\FirstProject.dll
-C:\Michał Kumor\klasa-2B-2022-2023-aplikacje\Aplikacje desktopowe i mobilne\FirstProject\bin\Debug\net5.0\FirstProject.pdb
-C:\Michał Kumor\klasa-2B-2022-2023-aplikacje\Aplikacje desktopowe i mobilne\FirstProject\obj\Debug\net5.0\FirstProject.csproj.AssemblyReference.cache
-C:\Michał Kumor\klasa-2B-2022-2023-aplikacje\Aplikacje desktopowe i mobilne\FirstProject\obj\Debug\net5.0\FirstProject.GeneratedMSBuildEditorConfig.editorconfig
-C:\Michał Kumor\klasa-2B-2022-2023-aplikacje\Aplikacje desktopowe i mobilne\FirstProject\obj\Debug\net5.0\FirstProject.AssemblyInfoInputs.cache
-C:\Michał Kumor\klasa-2B-2022-2023-aplikacje\Aplikacje desktopowe i mobilne\FirstProject\obj\Debug\net5.0\FirstProject.AssemblyInfo.cs
-C:\Michał Kumor\klasa-2B-2022-2023-aplikacje\Aplikacje desktopowe i mobilne\FirstProject\obj\Debug\net5.0\FirstProject.csproj.CoreCompileInputs.cache
-C:\Michał Kumor\klasa-2B-2022-2023-aplikacje\Aplikacje desktopowe i mobilne\FirstProject\obj\Debug\net5.0\FirstProject.dll
-C:\Michał Kumor\klasa-2B-2022-2023-aplikacje\Aplikacje desktopowe i mobilne\FirstProject\obj\Debug\net5.0\ref\FirstProject.dll
-C:\Michał Kumor\klasa-2B-2022-2023-aplikacje\Aplikacje desktopowe i mobilne\FirstProject\obj\Debug\net5.0\FirstProject.pdb
-C:\Michał Kumor\klasa-2B-2022-2023-aplikacje\Aplikacje desktopowe i mobilne\FirstProject\obj\Debug\net5.0\FirstProject.genruntimeconfig.cache
+C:\Michał Kumor 2B\klasa-2B-2022-2023-aplikacje\Aplikacje desktopowe i mobilne\FirstProject\bin\Debug\net5.0\FirstProject.exe
+C:\Michał Kumor 2B\klasa-2B-2022-2023-aplikacje\Aplikacje desktopowe i mobilne\FirstProject\bin\Debug\net5.0\FirstProject.deps.json
+C:\Michał Kumor 2B\klasa-2B-2022-2023-aplikacje\Aplikacje desktopowe i mobilne\FirstProject\bin\Debug\net5.0\FirstProject.runtimeconfig.json
+C:\Michał Kumor 2B\klasa-2B-2022-2023-aplikacje\Aplikacje desktopowe i mobilne\FirstProject\bin\Debug\net5.0\FirstProject.runtimeconfig.dev.json
+C:\Michał Kumor 2B\klasa-2B-2022-2023-aplikacje\Aplikacje desktopowe i mobilne\FirstProject\bin\Debug\net5.0\FirstProject.dll
+C:\Michał Kumor 2B\klasa-2B-2022-2023-aplikacje\Aplikacje desktopowe i mobilne\FirstProject\bin\Debug\net5.0\ref\FirstProject.dll
+C:\Michał Kumor 2B\klasa-2B-2022-2023-aplikacje\Aplikacje desktopowe i mobilne\FirstProject\bin\Debug\net5.0\FirstProject.pdb
+C:\Michał Kumor 2B\klasa-2B-2022-2023-aplikacje\Aplikacje desktopowe i mobilne\FirstProject\obj\Debug\net5.0\FirstProject.csproj.AssemblyReference.cache
+C:\Michał Kumor 2B\klasa-2B-2022-2023-aplikacje\Aplikacje desktopowe i mobilne\FirstProject\obj\Debug\net5.0\FirstProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Michał Kumor 2B\klasa-2B-2022-2023-aplikacje\Aplikacje desktopowe i mobilne\FirstProject\obj\Debug\net5.0\FirstProject.AssemblyInfoInputs.cache
+C:\Michał Kumor 2B\klasa-2B-2022-2023-aplikacje\Aplikacje desktopowe i mobilne\FirstProject\obj\Debug\net5.0\FirstProject.AssemblyInfo.cs
+C:\Michał Kumor 2B\klasa-2B-2022-2023-aplikacje\Aplikacje desktopowe i mobilne\FirstProject\obj\Debug\net5.0\FirstProject.csproj.CoreCompileInputs.cache
+C:\Michał Kumor 2B\klasa-2B-2022-2023-aplikacje\Aplikacje desktopowe i mobilne\FirstProject\obj\Debug\net5.0\FirstProject.dll
+C:\Michał Kumor 2B\klasa-2B-2022-2023-aplikacje\Aplikacje desktopowe i mobilne\FirstProject\obj\Debug\net5.0\ref\FirstProject.dll
+C:\Michał Kumor 2B\klasa-2B-2022-2023-aplikacje\Aplikacje desktopowe i mobilne\FirstProject\obj\Debug\net5.0\FirstProject.pdb
+C:\Michał Kumor 2B\klasa-2B-2022-2023-aplikacje\Aplikacje desktopowe i mobilne\FirstProject\obj\Debug\net5.0\FirstProject.genruntimeconfig.cache
